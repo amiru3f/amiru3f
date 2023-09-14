@@ -26,7 +26,7 @@
  
  
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="K8S" width="70" height="70" />
-  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" width="70" height="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="70" height="70" />
