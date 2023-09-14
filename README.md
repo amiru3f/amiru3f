@@ -31,9 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="70" height="70" />
 </p>
 
-- A technology enthusiast, performance optimizer, idealist and hard woker
+- A technology enthusiast, performance optimizer, idealist and hard worker
 - I'm an always out of the box thinker, Let me solve your most challenging problems
-- Ask me about: Software architecture, Performance Optimization, Distributed Systems, Micro-Services, DDD, Event Driven Architecture, CI/CD, Algorithms, and Data Structures
+- Ask me about Software architecture, Performance Optimization, Distributed Systems, Micro-Services, DDD, Event Driven Architecture, CI/CD, Algorithms, and Data Structures
 
 </br>
 
@@ -41,4 +41,10 @@
  <a href="#" alt="Amir's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=amiru3f&theme=tokyonight&show_icons=true" />
  </a>
+</p>
+
+<p align="center">
+<a hef="https://www.buymeacoffee.com/amirusef" alt="Buy me a coffee">
+  <img src="" />
+</a>
 </p>
