@@ -44,7 +44,8 @@
 </p>
 
 <p align="center">
-<a hef="https://www.buymeacoffee.com/amirusef" alt="Buy me a coffee">
+<a href="https://www.buymeacoffee.com/amirusef" alt="Buy me a coffee">
   <img src="https://cdn1.iconfinder.com/data/icons/drink-beverage/512/z5-coffee-latte-takeaway-cup-512.png"  width="140" height="140" />
+   <h3 align="center">Buy me a coffee</h3>
 </a>
 </p>
