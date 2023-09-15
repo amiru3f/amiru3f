@@ -42,10 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amiru3f&theme=tokyonight&show_icons=true" />
  </a>
 </p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/amirusef" alt="Buy me a coffee">
-  <img src="https://cdn1.iconfinder.com/data/icons/drink-beverage/512/z5-coffee-latte-takeaway-cup-512.png"  width="280" height="280" />
-   <h3 align="center">Buy me a coffee</h3>
-</a>
-</p>
