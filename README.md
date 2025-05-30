@@ -1,8 +1,5 @@
 ### Hi there 👋
-I am Amir, A technology enthusiast, performance optimizer, idealist, and hard worker.
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eyedean) -->
-
+Call me Amir, Software Engineer and Architect, Coffee Alchemist
 
 
 <!-- <h1 align="center">Stats:</h1> -->
