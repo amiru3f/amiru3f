@@ -1,5 +1,5 @@
 ### Hi there 👋
-Call me Amir, Software Engineer and Architect, Coffee Alchemist
+Call me Amir. Software Engineer and Architect 💻, Coffee Alchemist ☕
 
 
 <!-- <h1 align="center">Stats:</h1> -->
